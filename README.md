@@ -8,8 +8,6 @@ you go as well as the monster types, going from zeds, imps and pinkies
 to revenants, nobles, and archviles. it also changes the bonus loot you 
 can get at the end of each wave.
 
-[size=150][url=Download the map here!][/url][/size]
-
 just keep in mind, UV is 4 times harder than ITYTD. so, if you're playing 
 with a mod that makes the game a bit harder to play, well, tone the 
 difficulty down.
